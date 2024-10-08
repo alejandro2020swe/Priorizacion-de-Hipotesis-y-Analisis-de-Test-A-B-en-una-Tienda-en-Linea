@@ -1,4 +1,4 @@
-# Prioritización de Hipótesis y Análisis de Test A/B en una Tienda en Línea
+# Priorización de Hipótesis y Análisis de Test A/B en una Tienda en Línea
 
 ## Descripción del Proyecto
 
